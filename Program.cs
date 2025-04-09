@@ -7,7 +7,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        var myObj = new ForEachLoopClass();
+        var myObj = new MatematiskClass();
 
         Console.Write("Indtast et tal: ");
         int input = Convert.ToInt32(Console.ReadLine());
